@@ -8,7 +8,7 @@ The Space Shooter game, developed using C++ and the SFML library, offers an exci
 
 - **Menu Screen**: Start the game, access instructions, view high scores, and exit the game.
 
-  ![Menu](path/to/menu_screenshot.png)
+  ![Menu](https://github.com/Aalyanraza/SpaceShooter/assets/114768774/39a2f110-9186-4d34-815b-68380c744ff4)
 
 - **Level-based Gameplay**: Each level introduces unique enemies, such as monsters and dragons, with different wave patterns.
 
@@ -18,20 +18,23 @@ The Space Shooter game, developed using C++ and the SFML library, offers an exci
 
 - **On-Screen Display**: The game displays the current score, level, and spaceship status at all times.
 
-  ![High Score](path/to/highscore_screenshot.png)
+  ![Highscore](https://github.com/Aalyanraza/SpaceShooter/assets/114768774/bf26b42f-977b-44bf-a74b-8974d2f5d6ef)
 
-  ![Instructions](path/to/instruction_screenshot.png)
+  ![Instruction](https://github.com/Aalyanraza/SpaceShooter/assets/114768774/f7aaa734-7914-480f-b30e-472e17f4e2fe)
 
 ## Screenshots
+
+
+
 
 ### Gameplay
 
 ```markdown
-| Gameplay 1                                 | Gameplay 2                                 |
+| Gameplay 1                                                                                                        | Gameplay 2                                 |
 | ----------------------------------------- | ----------------------------------------- |
-| ![Gameplay 1](path/to/gameplay1.png)       | ![Gameplay 2](path/to/gameplay2.png)       |
+| ![Level 1](https://github.com/Aalyanraza/SpaceShooter/assets/114768774/5970f8a8-ed1c-47cd-b496-45e880c971df)      | ![Level 3](https://github.com/Aalyanraza/SpaceShooter/assets/114768774/0b72ef35-8bde-4565-af5b-124a7e706f78)    |
 
-| Gameplay 3                                 | Gameplay 4                                 |
+| Gameplay 3                                                                                                        | Gameplay 4                                 |
 | ----------------------------------------- | ----------------------------------------- |
-| ![Gameplay 3](path/to/gameplay3.png)       | ![Gameplay 4](path/to/gameplay4.png)       |
+| ![Monster](https://github.com/Aalyanraza/SpaceShooter/assets/114768774/c066580c-db73-4e39-94b0-612e7cbedcd1)      | ![Dragon](https://github.com/Aalyanraza/SpaceShooter/assets/114768774/eb950e44-0639-4e88-8408-08be5408ebca)     |
 

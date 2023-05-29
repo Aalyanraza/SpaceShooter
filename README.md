@@ -27,11 +27,11 @@ The Space Shooter game, developed using C++ and the SFML library, offers an exci
 ### Gameplay
 
 
-| Gameplay 1                                 |  Gameplay 2                                 |
+| Alpha Enemys                                 |  Beta Enemies                                 |
 | ---------------------------------------- | ------------------------------------------ |
 | ![Level 1](https://github.com/Aalyanraza/SpaceShooter/assets/114768774/5970f8a8-ed1c-47cd-b496-45e880c971df) | ![Level 3](https://github.com/Aalyanraza/SpaceShooter/assets/114768774/0b72ef35-8bde-4565-af5b-124a7e706f78) |
 
-| Gameplay 3                                 |  Gameplay 4                                 |
+| Monster                                 |  Dragon                                |
 | ---------------------------------------- | ------------------------------------------ |
 | ![Monster](https://github.com/Aalyanraza/SpaceShooter/assets/114768774/c066580c-db73-4e39-94b0-612e7cbedcd1) | ![Dragon](https://github.com/Aalyanraza/SpaceShooter/assets/114768774/eb950e44-0639-4e88-8408-08be5408ebca) |
-Make sure to replace the image URLs 
+ 

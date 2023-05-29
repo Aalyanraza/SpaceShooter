@@ -35,3 +35,33 @@ The Space Shooter game, developed using C++ and the SFML library, offers an exci
 | ---------------------------------------- | ------------------------------------------ |
 | ![Monster](https://github.com/Aalyanraza/SpaceShooter/assets/114768774/c066580c-db73-4e39-94b0-612e7cbedcd1) | ![Dragon](https://github.com/Aalyanraza/SpaceShooter/assets/114768774/eb950e44-0639-4e88-8408-08be5408ebca) |
  
+## Installation
+
+To run the game, you will need sfml library downloaded. For that click the under given link:
+https://www.sfml-dev.org/download.php
+
+## Usage
+
+Run the following commands on ubunto terminal after installing the required libraries and hopefully your game will run
+<br />g++ -c main.cpp
+<br />g++ main.o -o sfml-app -lsfml-graphics -lsfml-window -lsfml-system
+<br />./sfml-app
+
+
+## Contribution
+
+Thank you for your interest in contributing to the Tetris game project! Contributions are always welcome and can help improve the game further. To contribute, please follow these guidelines:
+
+1. Fork the repository and clone it to your local machine.
+2. Create a new branch for your contribution: git checkout -b feature/your-feature-name.
+3. Make your desired changes and improvements to the codebase.
+4. Test your changes thoroughly to ensure they don't introduce any issues.
+5. Commit your changes with descriptive commit messages: git commit -m "Add your commit message here".
+6. Push your changes to your forked repository: git push origin feature/your-feature-name.
+7. Open a pull request to the main repository, clearly describing the changes you have made.
+8. Ensure that your code follows the project's coding style and conventions.
+9. Respond to any feedback or suggestions provided during the code review process.
+10. Once your changes are approved, they will be merged into the main branch.
+
+Thank you for your contribution in advance! Your help is greatly appreciated.
+Feel free to customize these guidelines based on your project's specific needs and any contribution workflows you may have in place

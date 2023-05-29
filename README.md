@@ -1,5 +1,15 @@
 # Space Shooter Game
 
+# Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contribution](#contribution)
+
+
 ## Introduction
 
 The Space Shooter game, developed using C++ and the SFML library, offers an exciting gameplay experience set in outer space. Players navigate a spaceship and engage in intense battles against waves of enemies. The objective is to survive as long as possible, achieve high scores, and progress through multiple challenging levels.

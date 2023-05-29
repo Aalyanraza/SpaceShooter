@@ -18,10 +18,7 @@ The Space Shooter game, developed using C++ and the SFML library, offers an exci
 
 - **On-Screen Display**: The game displays the current score, level, and spaceship status at all times.
 
-  ![Highscore](https://github.com/Aalyanraza/SpaceShooter/assets/114768774/bf26b42f-977b-44bf-a74b-8974d2f5d6ef)
-
-  ![Instruction](https://github.com/Aalyanraza/SpaceShooter/assets/114768774/f7aaa734-7914-480f-b30e-472e17f4e2fe)
-
+  <img src="https://github.com/Aalyanraza/SpaceShooter/assets/114768774/bf26b42f-977b-44bf-a74b-8974d2f5d6ef" alt="High Score" width="400" /> <imgsrc="https://github.com/Aalyanraza/SpaceShooter/assets/114768774/f7aaa734-7914-480f-b30e-472e17f4e2fe" alt="Instructions" width="400" />
 ## Screenshots
 
 

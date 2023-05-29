@@ -19,7 +19,7 @@ Menu()
 {
     btexture.loadFromFile("img/background_1.png");
     background.setTexture(btexture);
-    background.setScale(2, 1.5);
+    background.setScale(1, 1);
     font.loadFromFile("img/arial.ttf");
     botton= new Sprite [5];    
     bottontexture.loadFromFile("img/PNG/UI/buttonBlue.png");

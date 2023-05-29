@@ -20,10 +20,9 @@ The Space Shooter game, developed using C++ and the SFML library, offers an exci
 
 | High Score                               
 | Instructions                              |
-  | --------------------------------------- | ----------------------------------------- |
-  | ![High Score]("https://github.com/Aalyanraza/SpaceShooter/assets/114768774/bf26b42f-977b-44bf-a74b-8974d2f5d6ef)    | 
-  ![Instructions]("https://github.com/Aalyanraza/SpaceShooter/assets/114768774/f7aaa734-7914-480f-b30e-472e17f4e2fe") |
-  <img src=" alt="High Score" width="400" /> <imgsrc=" alt="Instructions" width="400" />
+| --------------------------------------- | ----------------------------------------- |
+| ![High Score]("https://github.com/Aalyanraza/SpaceShooter/assets/114768774/bf26b42f-977b-44bf-a74b-8974d2f5d6ef)    | 
+ ![Instructions]("https://github.com/Aalyanraza/SpaceShooter/assets/114768774/f7aaa734-7914-480f-b30e-472e17f4e2fe") |
 ## Screenshots
 
 

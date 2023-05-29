@@ -7,8 +7,8 @@ The Space Shooter game, developed using C++ and the SFML library, offers an exci
 ## Features
 
 - **Menu Screen**: Start the game, access instructions, view high scores, and exit the game.
+<img src="[path/to/menu_screenshot.png](https://github.com/Aalyanraza/SpaceShooter/assets/114768774/39a2f110-9186-4d34-815b-68380c744ff4)" alt="Menu" width="300" height="200" />
 
-  ![Menu](https://github.com/Aalyanraza/SpaceShooter/assets/114768774/39a2f110-9186-4d34-815b-68380c744ff4)
 
 - **Level-based Gameplay**: Each level introduces unique enemies, such as monsters and dragons, with different wave patterns.
 

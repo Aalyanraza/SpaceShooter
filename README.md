@@ -26,8 +26,7 @@ The Space Shooter game, developed using C++ and the SFML library, offers an exci
 
 ### Gameplay
 
-```markdown
-### Gameplay Screenshots
+
 | Gameplay 1                                 |  Gameplay 2                                 |
 | ---------------------------------------- | ------------------------------------------ |
 | ![Level 1](https://github.com/Aalyanraza/SpaceShooter/assets/114768774/5970f8a8-ed1c-47cd-b496-45e880c971df) | ![Level 3](https://github.com/Aalyanraza/SpaceShooter/assets/114768774/0b72ef35-8bde-4565-af5b-124a7e706f78) |

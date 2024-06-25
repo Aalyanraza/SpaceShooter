@@ -8,6 +8,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contribution](#contribution)
+- [License](#license)
 
 
 ## Introduction
@@ -75,3 +76,9 @@ Thank you for your interest in contributing to the Tetris game project! Contribu
 
 Thank you for your contribution in advance! Your help is greatly appreciated.
 Feel free to customize these guidelines based on your project's specific needs and any contribution workflows you may have in place
+
+## License
+
+This project is licensed under a Custom Non-Commercial License. Please see the [LICENSE](./LICENSE) file for more information.
+For commercial use, please contact aalyanrkazmi@gmail.com to discuss terms and obtain a commercial license.
+
